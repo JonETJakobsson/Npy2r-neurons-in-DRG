@@ -1,0 +1,865 @@
+Sample ID;Picking sessions;Picking ToC;Library;Reads;Sex;Level 1;Level 2;Level 3;Content
+L128_A01;RT-1;RT;L128;350;male;Empty well;Empty well;Empty well;no cell
+L128_B01;RT-1;RT;L128;35921;male;NP;NP1;NP1;cell
+L128_C01;RT-1;RT;L128;6581;male;TH;TH;TH;cell
+L128_D01;RT-1;RT;L128;6387;male;NF;NF4/5;NF5;cell
+L128_E01;RT-1;RT;L128;12485;male;TH;TH;TH;cell
+L128_F01;RT-1;RT;L128;5387;male;NP;NP1;NP1;cell
+L128_G01;RT-1;RT;L128;56232;male;NP;NP1;NP1;cell
+L128_H01;RT-1;RT;L128;38759;male;NF;NF2/3;NF2;cell
+L128_A02;RT-1;RT;L128;38620;male;NF outlier;NF outlier;NF outlier;cell
+L128_B02;RT-1;RT;L128;16615;male;NF;NF4/5;NF5;cell
+L128_C02;RT-1;RT;L128;50280;male;NF;NF4/5;NF5;cell
+L128_D02;RT-1;RT;L128;9133;male;TH;TH;TH;cell
+L128_E02;RT-1;RT;L128;33694;male;NF;NF2/3;NF3;cell
+L128_F02;RT-1;RT;L128;16528;male;NP;NP1;NP1;cell
+L128_G02;RT-1;RT;L128;10207;male;NP;NP1;NP1;cell
+L128_H02;RT-1;RT;L128;14562;male;NP;NP1;NP1;cell
+L128_A03;RT-1;RT;L128;30167;male;NF;NF2/3;NF2;cell
+L128_B03;RT-1;RT;L128;14529;male;NF;NF2/3;NF2;cell
+L128_C03;RT-1;RT;L128;681;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L128_D03;RT-1;RT;L128;45321;male;NF;NF2/3;NF2;cell
+L128_E03;RT-1;RT;L128;64567;male;NF;NF2/3;NF2;cell
+L128_F03;RT-1;RT;L128;18774;male;NP;NP2;NP2;cell
+L128_G03;RT-1;RT;L128;26240;male;TH;TH;TH;cell
+L128_H03;RT-1;RT;L128;6012;male;PEP;PEP2;PEP2;cell
+L128_A04;RT-1;RT;L128;18810;male;NP;NP1;NP1;cell
+L128_B04;RT-1;RT;L128;23138;male;NP;NP1;NP1;cell
+L128_C04;RT-1;RT;L128;29655;male;NF;NF4/5;NF4;cell
+L128_D04;RT-1;RT;L128;5681;male;NP;NP2;NP2;cell
+L128_E04;RT-1;RT;L128;6998;male;PEP;PEP1;PEP1;cell
+L128_F04;RT-1;RT;L128;54825;male;NF;NF2/3;NF2;cell
+L128_G04;RT-1;RT;L128;49430;male;NF;NF4/5;NF5;cell
+L128_H04;RT-1;RT;L128;17154;male;NP;NP1;NP1;cell
+L128_A05;RT-1;RT;L128;1081;male;NP;NP1;NP1;cell
+L128_B05;RT-1;RT;L128;37761;male;NF;NF4/5;NF5;cell
+L128_C05;RT-1;RT;L128;28930;male;NP;NP1;NP1;cell
+L128_D05;RT-1;RT;L128;18178;male;NF;NF4/5;NF4;cell
+L128_E05;RT-1;RT;L128;3369;male;PEP;PEP1;PEP1;cell
+L128_F05;RT-1;RT;L128;15823;male;NP;NP1;NP1;cell
+L128_G05;RT-1;RT;L128;62447;male;NF;NF2/3;NF2;cell
+L128_H05;RT-1;RT;L128;4613;male;NP;NP1;NP1;cell
+L128_A06;RT-1;RT;L128;12174;male;TH;TH;TH;cell
+L128_B06;RT-1;RT;L128;6358;male;TH;TH;TH;cell
+L128_C06;RT-1;RT;L128;9418;male;TH;TH;TH;cell
+L128_D06;RT-1;RT;L128;37396;male;NF;NF2/3;NF2;cell
+L128_E06;RT-1;RT;L128;15526;male;NP;NP2;NP2;cell
+L128_F06;RT-1;RT;L128;30494;male;NF;NF2/3;NF3;cell
+L128_G06;RT-1;RT;L128;24458;male;NP;NP1;NP1;cell
+L128_H06;RT-1;RT;L128;12153;male;NP;NP1;NP1;cell
+L128_A07;RT-1;RT;L128;661;male;Empty well;Empty well;Empty well;no cell
+L128_B07;RT-1;RT;L128;198;male;Empty well;Empty well;Empty well;no cell
+L128_C07;RT-1;RT;L128;638;male;Empty well;Empty well;Empty well;no cell
+L128_D07;RT-1;RT;L128;958;male;Empty well;Empty well;Empty well;no cell
+L128_E07;RT-1;RT;L128;108;male;Empty well;Empty well;Empty well;no cell
+L128_F07;RT-1;RT;L128;1185;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L128_G07;RT-1;RT;L128;11503;male;NP;NP1;NP1;cell
+L128_H07;RT-1;RT;L128;56064;male;NF;NF1;NF1;cell
+L128_A08;RT-1;RT;L128;51240;male;NF;NF1;NF1;cell
+L128_B08;RT-1;RT;L128;7205;male;TH;TH;TH;cell
+L128_C08;RT-1;RT;L128;23689;male;NP;NP1;NP1;cell
+L128_D08;RT-1;RT;L128;17751;male;NP;NP1;NP1;cell
+L128_E08;RT-1;RT;L128;6892;male;NP;NP2;NP3;cell
+L128_F08;RT-1;RT;L128;17486;male;NP;NP2;NP2;cell
+L128_G08;RT-1;RT;L128;16881;male;TH;TH;TH;cell
+L128_H08;RT-1;RT;L128;83098;male;NF;NF2/3;NF3;cell
+L128_A09;RT-1;RT;L128;38932;male;PEP;PEP2;PEP2;cell
+L128_B09;RT-1;RT;L128;12221;male;NF;NF1;NF1;cell
+L128_C09;RT-1;RT;L128;17423;male;TH;TH;TH;cell
+L128_D09;RT-1;RT;L128;4963;male;PEP;PEP1;PEP1;cell
+L128_E09;RT-1;RT;L128;24871;male;TH;TH;TH;cell
+L128_F09;RT-1;RT;L128;52914;male;PEP;PEP2;PEP2;cell
+L128_G09;RT-1;RT;L128;17666;male;TH;TH;TH;cell
+L128_H09;RT-1;RT;L128;55527;male;NF;NF2/3;NF2;cell
+L128_A10;RT-1;RT;L128;22954;male;TH;TH;TH;cell
+L128_B10;RT-1;RT;L128;22448;male;NP;NP1;NP1;cell
+L128_C10;RT-1;RT;L128;34748;male;NP;NP2;NP2;cell
+L128_D10;RT-1;RT;L128;36192;male;NF;NF1;NF1;cell
+L128_E10;RT-1;RT;L128;49072;male;NF;NF2/3;NF2;cell
+L128_F10;RT-1;RT;L128;12128;male;PEP;PEP1;PEP1;cell
+L128_G10;RT-1;RT;L128;5997;male;TH;TH;TH;cell
+L128_H10;RT-1;RT;L128;8973;male;NP;NP2;NP2;cell
+L128_A11;RT-1;RT;L128;12017;male;PEP;PEP1;PEP1;cell
+L128_B11;RT-1;RT;L128;8929;male;NP;NP1;NP1;cell
+L128_C11;RT-1;RT;L128;7279;male;TH;TH;TH;cell
+L128_D11;RT-1;RT;L128;5123;male;TH;TH;TH;cell
+L128_E11;RT-1;RT;L128;23327;male;NF;NF1;NF1;cell
+L128_F11;RT-1;RT;L128;18369;male;TH;TH;TH;cell
+L128_G11;RT-1;RT;L128;16985;male;TH;TH;TH;cell
+L128_H11;RT-1;RT;L128;6815;male;TH;TH;TH;cell
+L128_A12;RT-1;RT;L128;2459;male;PEP;PEP1;PEP1;cell
+L128_B12;RT-1;RT;L128;12302;male;TH;TH;TH;cell
+L128_C12;RT-1;RT;L128;21363;male;NP;NP1;NP1;cell
+L128_D12;RT-1;RT;L128;22402;male;NP;NP1;NP1;cell
+L128_E12;RT-1;RT;L128;10278;male;TH;TH;TH;cell
+L128_F12;RT-1;RT;L128;21290;male;TH;TH;TH;cell
+L128_G12;RT-1;RT;L128;6209;male;NP;NP2;NP3;cell
+L128_H12;RT-1;RT;L128;5215;male;PEP;PEP1;PEP1;cell
+L129_A01;RT-1;RT;L129;29221;female;NF;NF4/5;NF4;cell
+L129_B01;RT-1;RT;L129;48490;female;NF;NF4/5;NF5;cell
+L129_C01;RT-1;RT;L129;3715;female;TH;TH;TH;cell
+L129_D01;RT-1;RT;L129;4767;female;NF;NF4/5;NF5;cell
+L129_E01;RT-1;RT;L129;9057;female;NP;NP1;NP1;cell
+L129_F01;RT-1;RT;L129;8970;female;NF;NF2/3;NF2;cell
+L129_G01;RT-1;RT;L129;13191;female;TH;TH;TH;cell
+L129_H01;RT-1;RT;L129;24803;female;NP;NP1;NP1;cell
+L129_A02;RT-1;RT;L129;30698;female;NF;NF2/3;NF2;cell
+L129_B02;RT-1;RT;L129;14059;female;NP;NP1;NP1;cell
+L129_C02;RT-1;RT;L129;13643;female;TH;TH;TH;cell
+L129_D02;RT-1;RT;L129;9174;female;NP;NP2;NP2;cell
+L129_E02;RT-1;RT;L129;24260;female;NF;NF2/3;NF2;cell
+L129_F02;RT-1;RT;L129;23821;female;NF;NF1;NF1;cell
+L129_G02;RT-1;RT;L129;3661;female;TH;TH;TH;cell
+L129_H02;RT-1;RT;L129;4767;female;TH;TH;TH;cell
+L129_A03;RT-1;RT;L129;7215;female;TH;TH;TH;cell
+L129_B03;RT-1;RT;L129;6167;female;NP;NP2;NP2;cell
+L129_C03;RT-1;RT;L129;12909;female;NP;NP1;NP1;cell
+L129_D03;RT-1;RT;L129;46640;female;NF;NF2/3;NF2;cell
+L129_E03;RT-1;RT;L129;24336;female;NP;NP1;NP1;cell
+L129_F03;RT-1;RT;L129;19136;female;NP;NP1;NP1;cell
+L129_G03;RT-1;RT;L129;12395;female;TH;TH;TH;cell
+L129_H03;RT-1;RT;L129;28597;female;NF;NF1;NF1;cell
+L129_A04;RT-1;RT;L129;8609;female;TH;TH;TH;cell
+L129_B04;RT-1;RT;L129;22239;female;NP;NP1;NP1;cell
+L129_C04;RT-1;RT;L129;17366;female;NF;NF4/5;NF4;cell
+L129_D04;RT-1;RT;L129;784;female;PEP;PEP1;PEP1;cell
+L129_E04;RT-1;RT;L129;40997;female;NF;NF1;NF1;cell
+L129_F04;RT-1;RT;L129;26033;female;NP;NP1;NP1;cell
+L129_G04;RT-1;RT;L129;21618;female;PEP;PEP2;PEP2;cell
+L129_H04;RT-1;RT;L129;5446;female;NP;NP2;NP3;cell
+L129_A05;RT-1;RT;L129;65793;female;NF;NF4/5;NF5;cell
+L129_B05;RT-1;RT;L129;14866;female;TH;TH;TH;cell
+L129_C05;RT-1;RT;L129;14865;female;NP;NP2;NP2;cell
+L129_D05;RT-1;RT;L129;23307;female;NF;NF4/5;NF4;cell
+L129_E05;RT-1;RT;L129;10440;female;NF;NF2/3;NF2;cell
+L129_F05;RT-1;RT;L129;12797;female;TH;TH;TH;cell
+L129_G05;RT-1;RT;L129;39712;female;NF;NF2/3;NF2;cell
+L129_H05;RT-1;RT;L129;6519;female;TH;TH;TH;cell
+L129_A06;RT-1;RT;L129;64527;female;NF;NF2/3;NF3;cell
+L129_B06;RT-1;RT;L129;34549;female;NP;NP1;NP1;cell
+L129_C06;RT-1;RT;L129;3146;female;PEP;PEP1;PEP1;cell
+L129_D06;RT-1;RT;L129;11648;female;TH;TH;TH;cell
+L129_E06;RT-1;RT;L129;58009;female;NF;NF4/5;NF5;cell
+L129_F06;RT-1;RT;L129;11156;female;TH;TH;TH;cell
+L129_G06;RT-1;RT;L129;15597;female;TH;TH;TH;cell
+L129_H06;RT-1;RT;L129;28816;female;NF;NF1;NF1;cell
+L129_A07;RT-1;RT;L129;666;male;Medium;Medium;Medium;no cell
+L129_B07;RT-1;RT;L129;7467;male;TH;TH;TH;cell
+L129_C07;RT-1;RT;L129;20790;male;NP;NP2;NP2;cell
+L129_D07;RT-1;RT;L129;449;male;NoN;NoN;NoN;cell
+L129_E07;RT-1;RT;L129;1251;male;PEP;PEP1;PEP1;cell
+L129_F07;RT-1;RT;L129;7154;male;TH;TH;TH;cell
+L129_G07;RT-1;RT;L129;6217;male;PEP;PEP1;PEP1;cell
+L129_H07;RT-1;RT;L129;81879;male;NF;NF2/3;NF2;cell
+L129_A08;RT-1;RT;L129;6799;male;PEP;PEP1;PEP1;cell
+L129_B08;RT-1;RT;L129;1069;male;PEP;PEP1;PEP1;cell
+L129_C08;RT-1;RT;L129;7016;male;PEP;PEP1;PEP1;cell
+L129_D08;RT-1;RT;L129;5172;male;PEP;PEP1;PEP1;cell
+L129_E08;RT-1;RT;L129;4596;male;PEP;PEP1;PEP1;cell
+L129_F08;RT-1;RT;L129;2912;male;PEP;PEP1;PEP1;cell
+L129_G08;RT-1;RT;L129;6654;male;PEP;PEP1;PEP1;cell
+L129_H08;RT-1;RT;L129;3719;male;PEP;PEP1;PEP1;cell
+L129_A09;RT-1;RT;L129;663;male;NoN;NoN;NoN;cell
+L129_B09;RT-1;RT;L129;5560;male;TH;TH;TH;cell
+L129_C09;RT-1;RT;L129;21653;male;NP;NP1;NP1;cell
+L129_D09;RT-1;RT;L129;8975;male;TH;TH;TH;cell
+L129_E09;RT-1;RT;L129;26658;male;TH;TH;TH;cell
+L129_F09;RT-1;RT;L129;11398;male;TH;TH;TH;cell
+L129_G09;RT-1;RT;L129;19328;male;TH;TH;TH;cell
+L129_H09;RT-1;RT;L129;15701;male;TH;TH;TH;cell
+L129_A10;RT-1;RT;L129;46487;male;NF;NF1;NF1;cell
+L129_B10;RT-1;RT;L129;30737;male;NF;NF2/3;NF2;cell
+L129_C10;RT-1;RT;L129;29502;male;>1 cell;>1 cell;>1 cell;>1 cell
+L129_D10;RT-1;RT;L129;99455;male;NF;NF2/3;NF2;cell
+L129_E10;RT-1;RT;L129;18887;male;NP;NP1;NP1;cell
+L129_F10;RT-1;RT;L129;8530;male;PEP;PEP2;PEP2;cell
+L129_G10;RT-1;RT;L129;33627;male;NF;NF2/3;NF2;cell
+L129_H10;RT-1;RT;L129;7648;male;NP;NP1;NP1;cell
+L129_A11;RT-1;RT;L129;62554;male;NF;NF1;NF1;cell
+L129_B11;RT-1;RT;L129;4470;male;TH;TH;TH;cell
+L129_C11;RT-1;RT;L129;14139;male;NP;NP1;NP1;cell
+L129_D11;RT-1;RT;L129;19054;male;NF;NF2/3;NF2;cell
+L129_E11;RT-1;RT;L129;7869;male;NP;NP1;NP1;cell
+L129_F11;RT-1;RT;L129;16338;male;NF;NF4/5;NF4;cell
+L129_G11;RT-1;RT;L129;18204;male;NP;NP2;NP2;cell
+L129_H11;RT-1;RT;L129;12145;male;NP;NP2;NP2;cell
+L129_A12;RT-1;RT;L129;24973;male;PEP;PEP2;PEP2;cell
+L129_B12;RT-1;RT;L129;16466;male;TH;TH;TH;cell
+L129_C12;RT-1;RT;L129;2910;male;PEP;PEP1;PEP1;cell
+L129_D12;RT-1;RT;L129;19575;male;PEP;PEP2;PEP2;cell
+L129_E12;RT-1;RT;L129;8730;male;PEP;PEP1;PEP1;cell
+L129_F12;RT-1;RT;L129;93212;male;NF;NF2/3;NF3;cell
+L129_G12;RT-1;RT;L129;14032;male;TH;TH;TH;cell
+L129_H12;RT-1;RT;L129;18496;male;NP;NP1;NP1;cell
+L130_A01;RT-1;RT;L130;211;male;NoN;NoN;NoN;cell
+L130_B01;RT-1;RT;L130;1184;male;NoN;NoN;NoN;cell
+L130_C01;RT-1;RT;L130;7909;male;NP;NP1;NP1;cell
+L130_D01;RT-1;RT;L130;10182;male;NF;NF2/3;NF2;cell
+L130_E01;RT-1;RT;L130;11270;male;TH;TH;TH;cell
+L130_F01;RT-1;RT;L130;10921;male;PEP;PEP2;PEP2;cell
+L130_G01;RT-1;RT;L130;25017;male;TH;TH;TH;cell
+L130_H01;RT-1;RT;L130;77483;male;PEP;PEP2;PEP2;cell
+L130_A02;RT-1;RT;L130;5403;male;TH;TH;TH;cell
+L130_B02;RT-1;RT;L130;22758;male;TH;TH;TH;cell
+L130_C02;RT-1;RT;L130;17464;male;TH;TH;TH;cell
+L130_D02;RT-1;RT;L130;20550;male;NF;NF1;NF1;cell
+L130_E02;RT-1;RT;L130;14635;male;TH;TH;TH;cell
+L130_F02;RT-1;RT;L130;18895;male;PEP;PEP2;PEP2;cell
+L130_G02;RT-1;RT;L130;2367;male;PEP;PEP1;PEP1;cell
+L130_H02;RT-1;RT;L130;24379;male;NF;NF4/5;NF4;cell
+L130_A03;RT-1;RT;L130;7643;male;TH;TH;TH;cell
+L130_B03;RT-1;RT;L130;6389;male;NF;NF4/5;NF4;cell
+L130_C03;RT-1;RT;L130;15143;male;TH;TH;TH;cell
+L130_D03;RT-1;RT;L130;16664;male;TH;TH;TH;cell
+L130_E03;RT-1;RT;L130;15871;male;NF;NF4/5;NF4;cell
+L130_F03;RT-1;RT;L130;13867;male;PEP;PEP1;PEP1;cell
+L130_G03;RT-1;RT;L130;18788;male;TH;TH;TH;cell
+L130_H03;RT-1;RT;L130;10194;male;TH;TH;TH;cell
+L130_A04;RT-1;RT;L130;15509;male;NP;NP1;NP1;cell
+L130_B04;RT-1;RT;L130;36363;male;PEP;PEP2;PEP2;cell
+L130_C04;RT-1;RT;L130;20823;male;TH;TH;TH;cell
+L130_D04;RT-1;RT;L130;2554;male;NP;NP1;NP1;cell
+L130_E04;RT-1;RT;L130;11849;male;TH;TH;TH;cell
+L130_F04;RT-1;RT;L130;19649;male;NP;NP1;NP1;cell
+L130_G04;RT-1;RT;L130;9435;male;NP;NP1;NP1;cell
+L130_H04;RT-1;RT;L130;36677;male;NF;NF4/5;NF5;cell
+L130_A05;RT-1;RT;L130;30229;male;NP;NP1;NP1;cell
+L130_B05;RT-1;RT;L130;14647;male;TH;TH;TH;cell
+L130_C05;RT-1;RT;L130;14335;male;TH;TH;TH;cell
+L130_D05;RT-1;RT;L130;29581;male;NF;NF1;NF1;cell
+L130_E05;RT-1;RT;L130;4870;male;TH;TH;TH;cell
+L130_F05;RT-1;RT;L130;10038;male;TH;TH;TH;cell
+L130_G05;RT-1;RT;L130;9553;male;TH;TH;TH;cell
+L130_H05;RT-1;RT;L130;11281;male;TH;TH;TH;cell
+L130_A06;RT-1;RT;L130;19522;male;TH;TH;TH;cell
+L130_B06;RT-1;RT;L130;26291;male;NF;NF4/5;NF5;cell
+L130_C06;RT-1;RT;L130;14046;male;NP;NP1;NP1;cell
+L130_D06;RT-1;RT;L130;12002;male;TH;TH;TH;cell
+L130_E06;RT-1;RT;L130;21618;male;NF;NF4/5;NF4;cell
+L130_F06;RT-1;RT;L130;11685;male;NP;NP1;NP1;cell
+L130_G06;RT-1;RT;L130;51257;male;NF;NF1;NF1;cell
+L130_H06;RT-1;RT;L130;10030;male;NP;NP1;NP1;cell
+L130_A07;RT-1;RT;L130;11385;male;TH;TH;TH;cell
+L130_B07;RT-1;RT;L130;9560;male;NP;NP1;NP1;cell
+L130_C07;RT-1;RT;L130;4804;male;PEP;PEP1;PEP1;cell
+L130_D07;RT-1;RT;L130;36577;male;NF;NF4/5;NF5;cell
+L130_E07;RT-1;RT;L130;4114;male;NP;NP1;NP1;cell
+L130_F07;RT-1;RT;L130;7020;male;TH;TH;TH;cell
+L130_G07;RT-1;RT;L130;12393;male;NP;NP2;NP2;cell
+L130_H07;RT-1;RT;L130;15176;male;NP;NP1;NP1;cell
+L130_A08;RT-1;RT;L130;15280;male;NP;NP1;NP1;cell
+L130_B08;RT-1;RT;L130;6197;male;NP;NP1;NP1;cell
+L130_C08;RT-1;RT;L130;5157;male;NP;NP2;NP3;cell
+L130_D08;RT-1;RT;L130;10065;male;NF;NF4/5;NF4;cell
+L130_E08;RT-1;RT;L130;16983;male;TH;TH;TH;cell
+L130_F08;RT-1;RT;L130;9204;male;TH;TH;TH;cell
+L130_G08;RT-1;RT;L130;14666;male;NP;NP1;NP1;cell
+L130_H08;RT-1;RT;L130;7662;male;TH;TH;TH;cell
+L130_A09;RT-1;RT;L130;14791;male;TH;TH;TH;cell
+L130_B09;RT-1;RT;L130;1663;male;PEP;PEP1;PEP1;cell
+L130_C09;RT-1;RT;L130;9775;male;TH;TH;TH;cell
+L130_D09;RT-1;RT;L130;11794;male;PEP;PEP1;PEP1;cell
+L130_E09;RT-1;RT;L130;50470;male;NF;NF4/5;NF5;cell
+L130_F09;RT-1;RT;L130;52026;male;NF;NF4/5;NF5;cell
+L130_G09;RT-1;RT;L130;27218;male;NP;NP1;NP1;cell
+L130_H09;RT-1;RT;L130;8499;male;TH;TH;TH;cell
+L130_A10;RT-1;RT;L130;18761;male;NP;NP1;NP1;cell
+L130_B10;RT-1;RT;L130;23698;male;NP;NP1;NP1;cell
+L130_C10;RT-1;RT;L130;7480;male;TH;TH;TH;cell
+L130_D10;RT-1;RT;L130;19249;male;NP;NP1;NP1;cell
+L130_E10;RT-1;RT;L130;81372;male;NF;NF2/3;NF2;cell
+L130_F10;RT-1;RT;L130;6802;male;TH;TH;TH;cell
+L130_G10;RT-1;RT;L130;2815;male;TH;TH;TH;cell
+L130_H10;RT-1;RT;L130;1164;male;PEP;PEP1;PEP1;cell
+L130_A11;RT-1;RT;L130;15333;male;NP;NP1;NP1;cell
+L130_B11;RT-1;RT;L130;4082;male;TH;TH;TH;cell
+L130_C11;RT-1;RT;L130;7539;male;NP;NP1;NP1;cell
+L130_D11;RT-1;RT;L130;18950;male;NF;NF2/3;NF2;cell
+L130_E11;RT-1;RT;L130;4552;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L130_F11;RT-1;RT;L130;27863;male;NF;NF2/3;NF2;cell
+L130_G11;RT-1;RT;L130;20322;male;PEP;PEP2;PEP2;cell
+L130_H11;RT-1;RT;L130;11008;male;TH;TH;TH;cell
+L130_A12;RT-1;RT;L130;7944;male;TH;TH;TH;cell
+L130_B12;RT-1;RT;L130;51312;male;NF;NF4/5;NF5;cell
+L130_C12;RT-1;RT;L130;7050;male;TH;TH;TH;cell
+L130_D12;RT-1;RT;L130;67198;male;NF;NF4/5;NF5;cell
+L130_E12;RT-1;RT;L130;11755;male;TH;TH;TH;cell
+L130_F12;RT-1;RT;L130;8602;male;TH;TH;TH;cell
+L130_G12;RT-1;RT;L130;8621;male;Medium;Medium;Medium;no cell
+L130_H12;RT-1;RT;L130;4361;male;Medium;Medium;Medium;no cell
+L141_A01;RT-2;RT;L141;313;male;Empty well;Empty well;Empty well;no cell
+L141_B01;RT-2;RT;L141;5400;male;Medium;Medium;Medium;no cell
+L141_C01;RT-2;RT;L141;68260;male;PEP;PEP1;PEP1;cell
+L141_D01;RT-2;RT;L141;31417;male;NF;NF2/3;NF2;cell
+L141_E01;RT-2;RT;L141;107892;male;PEP;PEP1;PEP1;cell
+L141_F01;RT-2;RT;L141;125358;male;TH;TH;TH;cell
+L141_G01;RT-2;RT;L141;31556;male;NF outlier;NF outlier;NF outlier;cell
+L141_H01;RT-2;RT;L141;15586;male;NF outlier;NF outlier;NF outlier;cell
+L141_A02;RT-2;RT;L141;56827;male;PEP;PEP1;PEP1;cell
+L141_B02;RT-2;RT;L141;61280;male;NF outlier;NF outlier;NF outlier;cell
+L141_C02;RT-2;RT;L141;314738;male;PEP;PEP2;PEP2;cell
+L141_D02;RT-2;RT;L141;4229;male;NoN;NoN;NoN;cell
+L141_E02;RT-2;RT;L141;70043;male;TH;TH;TH;cell
+L141_F02;RT-2;RT;L141;694176;male;NF;NF1;NF1;cell
+L141_G02;RT-2;RT;L141;217142;male;NP;NP2;NP2;cell
+L141_H02;RT-2;RT;L141;289781;male;TH;TH;TH;cell
+L141_A03;RT-2;RT;L141;10201;male;NoN;NoN;NoN;cell
+L141_B03;RT-2;RT;L141;45938;male;NP;NP2;NP2;cell
+L141_C03;RT-2;RT;L141;10104;male;NF outlier;NF outlier;NF outlier;cell
+L141_D03;RT-2;RT;L141;166962;male;PEP;PEP1;PEP1;cell
+L141_E03;RT-2;RT;L141;441027;male;PEP;PEP1;PEP1;cell
+L141_F03;RT-2;RT;L141;214446;male;PEP;PEP1;PEP1;cell
+L141_G03;RT-2;RT;L141;209296;male;PEP;PEP1;PEP1;cell
+L141_H03;RT-2;RT;L141;127813;male;TH;TH;TH;cell
+L141_A04;RT-2;RT;L141;230838;male;TH;TH;TH;cell
+L141_B04;RT-2;RT;L141;340610;male;NP;NP1;NP1;cell
+L141_C04;RT-2;RT;L141;528258;male;NP;NP1;NP1;cell
+L141_D04;RT-2;RT;L141;91121;male;NP;NP1;NP1;cell
+L141_E04;RT-2;RT;L141;38169;male;NoN;NoN;NoN;cell
+L141_F04;RT-2;RT;L141;10765;male;NoN;NoN;NoN;cell
+L141_G04;RT-2;RT;L141;209298;male;NP;NP2;NP3;cell
+L141_H04;RT-2;RT;L141;420219;male;NP;NP1;NP1;cell
+L141_A05;RT-2;RT;L141;345041;male;NP;NP1;NP1;cell
+L141_B05;RT-2;RT;L141;336896;male;TH;TH;TH;cell
+L141_C05;RT-2;RT;L141;534956;male;NP;NP1;NP1;cell
+L141_D05;RT-2;RT;L141;445471;male;NF;NF1;NF1;cell
+L141_E05;RT-2;RT;L141;137271;male;NP;NP1;NP1;cell
+L141_F05;RT-2;RT;L141;7549;male;NoN;NoN;NoN;cell
+L141_G05;RT-2;RT;L141;330280;male;TH;TH;TH;cell
+L141_H05;RT-2;RT;L141;285722;male;NP;NP1;NP1;cell
+L141_A06;RT-2;RT;L141;325551;male;TH;TH;TH;cell
+L141_B06;RT-2;RT;L141;80262;male;TH;TH;TH;cell
+L141_C06;RT-2;RT;L141;131065;male;NP;NP2;NP2;cell
+L141_D06;RT-2;RT;L141;169915;male;TH;TH;TH;cell
+L141_E06;RT-2;RT;L141;1561517;male;NF;NF2/3;NF2;cell
+L141_F06;RT-2;RT;L141;198308;male;NF;NF4/5;NF5;cell
+L141_G06;RT-2;RT;L141;182018;male;TH;TH;TH;cell
+L141_H06;RT-2;RT;L141;45186;male;NoN;NoN;NoN;cell
+L141_A07;RT-2;RT;L141;598265;male;NP;NP1;NP1;cell
+L141_B07;RT-2;RT;L141;166939;male;NF;NF2/3;NF2;cell
+L141_C07;RT-2;RT;L141;139500;male;TH;TH;TH;cell
+L141_D07;RT-2;RT;L141;334376;male;NF;NF4/5;NF5;cell
+L141_E07;RT-2;RT;L141;51521;male;NP;NP1;NP1;cell
+L141_F07;RT-2;RT;L141;223874;male;TH;TH;TH;cell
+L141_G07;RT-2;RT;L141;168002;male;TH;TH;TH;cell
+L141_H07;RT-2;RT;L141;337144;male;TH;TH;TH;cell
+L141_A08;RT-2;RT;L141;938414;male;NF;NF1;NF1;cell
+L141_B08;RT-2;RT;L141;209374;male;NP;NP1;NP1;cell
+L141_C08;RT-2;RT;L141;1223527;male;NF;NF2/3;NF2;cell
+L141_D08;RT-2;RT;L141;80641;male;TH;TH;TH;cell
+L141_E08;RT-2;RT;L141;542232;male;NF;NF2/3;NF2;cell
+L141_F08;RT-2;RT;L141;131674;male;NP;NP2;NP2;cell
+L141_G08;RT-2;RT;L141;199005;male;TH;TH;TH;cell
+L141_H08;RT-2;RT;L141;1862284;male;NF;NF4/5;NF5;cell
+L141_A09;RT-2;RT;L141;90873;male;PEP;PEP1;PEP1;cell
+L141_B09;RT-2;RT;L141;12289;male;PEP;PEP1;PEP1;cell
+L141_C09;RT-2;RT;L141;114440;male;PEP;PEP1;PEP1;cell
+L141_D09;RT-2;RT;L141;86806;male;NP;NP2;NP3;cell
+L141_E09;RT-2;RT;L141;10464;male;NF outlier;NF outlier;NF outlier;cell
+L141_F09;RT-2;RT;L141;111582;male;TH;TH;TH;cell
+L141_G09;RT-2;RT;L141;274740;male;TH;TH;TH;cell
+L141_H09;RT-2;RT;L141;153204;male;TH;TH;TH;cell
+L141_A10;RT-2;RT;L141;972250;male;NF;NF2/3;NF3;cell
+L141_B10;RT-2;RT;L141;155070;male;TH;TH;TH;cell
+L141_C10;RT-2;RT;L141;204674;male;TH;TH;TH;cell
+L141_D10;RT-2;RT;L141;140258;male;TH;TH;TH;cell
+L141_E10;RT-2;RT;L141;866650;male;NF;NF4/5;NF5;cell
+L141_F10;RT-2;RT;L141;228936;male;NF;NF4/5;NF4;cell
+L141_G10;RT-2;RT;L141;355562;male;NF;NF2/3;NF2;cell
+L141_H10;RT-2;RT;L141;113941;male;NF;NF1;NF1;cell
+L141_A11;RT-2;RT;L141;359496;male;NF;NF2/3;NF2;cell
+L141_B11;RT-2;RT;L141;105332;male;TH;TH;TH;cell
+L141_C11;RT-2;RT;L141;352345;male;NF;NF1;NF1;cell
+L141_D11;RT-2;RT;L141;45954;male;TH;TH;TH;cell
+L141_E11;RT-2;RT;L141;5185;male;NF outlier;NF outlier;NF outlier;cell
+L141_F11;RT-2;RT;L141;86141;male;NP;NP2;NP3;cell
+L141_G11;RT-2;RT;L141;86593;male;PEP;PEP1;PEP1;cell
+L141_H11;RT-2;RT;L141;154153;male;TH;TH;TH;cell
+L141_A12;RT-2;RT;L141;286241;male;NF;NF2/3;NF2;cell
+L141_B12;RT-2;RT;L141;249039;male;NF;NF4/5;NF4;cell
+L141_C12;RT-2;RT;L141;197602;male;TH;TH;TH;cell
+L141_D12;RT-2;RT;L141;83685;male;TH;TH;TH;cell
+L141_E12;RT-2;RT;L141;666738;male;NF;NF2/3;NF3;cell
+L141_F12;RT-2;RT;L141;267503;male;NF;NF4/5;NF4;cell
+L141_G12;RT-2;RT;L141;1583;male;Medium;Medium;Medium;no cell
+L141_H12;RT-2;RT;L141;138;male;Empty well;Empty well;Empty well;no cell
+L142_A01;RT-2;RT;L142;992;male;Empty well;Empty well;Empty well;no cell
+L142_B01;RT-2;RT;L142;4376;male;Medium;Medium;Medium;no cell
+L142_C01;RT-2;RT;L142;146200;male;TH;TH;TH;cell
+L142_D01;RT-2;RT;L142;41450;male;PEP;PEP1;PEP1;cell
+L142_E01;RT-2;RT;L142;70820;male;NF;NF4/5;NF5;cell
+L142_F01;RT-2;RT;L142;16711;male;PEP;PEP1;PEP1;cell
+L142_G01;RT-2;RT;L142;387644;male;NP;NP1;NP1;cell
+L142_H01;RT-2;RT;L142;330614;male;NP;NP2;NP3;cell
+L142_A02;RT-2;RT;L142;90351;male;NP;NP2;NP3;cell
+L142_B02;RT-2;RT;L142;255349;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L142_C02;RT-2;RT;L142;200927;male;NP;NP1;NP1;cell
+L142_D02;RT-2;RT;L142;5550;male;NoN;NoN;NoN;cell
+L142_E02;RT-2;RT;L142;223065;male;NF;NF4/5;NF4;cell
+L142_F02;RT-2;RT;L142;80685;male;PEP;PEP1;PEP1;cell
+L142_G02;RT-2;RT;L142;202986;male;TH;TH;TH;cell
+L142_H02;RT-2;RT;L142;967587;male;PEP;PEP2;PEP2;cell
+L142_A03;RT-2;RT;L142;147549;male;TH;TH;TH;cell
+L142_B03;RT-2;RT;L142;116209;male;NP;NP1;NP1;cell
+L142_C03;RT-2;RT;L142;10882;male;PEP;PEP1;PEP1;cell
+L142_D03;RT-2;RT;L142;14712;male;NF outlier;NF outlier;NF outlier;cell
+L142_E03;RT-2;RT;L142;366812;male;NF;NF4/5;NF4;cell
+L142_F03;RT-2;RT;L142;288866;male;TH;TH;TH;cell
+L142_G03;RT-2;RT;L142;858792;male;NF;NF1;NF1;cell
+L142_H03;RT-2;RT;L142;179097;male;TH;TH;TH;cell
+L142_A04;RT-2;RT;L142;129872;male;TH;TH;TH;cell
+L142_B04;RT-2;RT;L142;163207;male;TH;TH;TH;cell
+L142_C04;RT-2;RT;L142;374049;male;TH;TH;TH;cell
+L142_D04;RT-2;RT;L142;92342;male;TH;TH;TH;cell
+L142_E04;RT-2;RT;L142;557958;male;NP;NP1;NP1;cell
+L142_F04;RT-2;RT;L142;242569;male;TH;TH;TH;cell
+L142_G04;RT-2;RT;L142;1223082;male;NF;NF4/5;NF5;cell
+L142_H04;RT-2;RT;L142;1467972;male;NF;NF4/5;NF5;cell
+L142_A05;RT-2;RT;L142;256618;male;TH;TH;TH;cell
+L142_B05;RT-2;RT;L142;825970;male;NF;NF2/3;NF2;cell
+L142_C05;RT-2;RT;L142;1567214;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L142_D05;RT-2;RT;L142;201544;male;TH;TH;TH;cell
+L142_E05;RT-2;RT;L142;189040;male;PEP;PEP1;PEP1;cell
+L142_F05;RT-2;RT;L142;445534;male;NP;NP1;NP1;cell
+L142_G05;RT-2;RT;L142;332065;male;NP;NP1;NP1;cell
+L142_H05;RT-2;RT;L142;902423;male;NF;NF2/3;NF2;cell
+L142_A06;RT-2;RT;L142;992052;male;NF;NF2/3;NF2;cell
+L142_B06;RT-2;RT;L142;139760;male;TH;TH;TH;cell
+L142_C06;RT-2;RT;L142;545598;male;NF;NF2/3;NF2;cell
+L142_D06;RT-2;RT;L142;331290;male;TH;TH;TH;cell
+L142_E06;RT-2;RT;L142;281398;male;TH;TH;TH;cell
+L142_F06;RT-2;RT;L142;802734;male;NF;NF2/3;NF2;cell
+L142_G06;RT-2;RT;L142;1359955;male;NF;NF4/5;NF5;cell
+L142_H06;RT-2;RT;L142;1120550;male;NF;NF2/3;NF3;cell
+L142_A07;RT-2;RT;L142;6652;male;>1 cell;>1 cell;>1 cell;>1 cell
+L142_B07;RT-2;RT;L142;273854;male;NF;NF2/3;NF2;cell
+L142_C07;RT-2;RT;L142;536595;male;NP;NP1;NP1;cell
+L142_D07;RT-2;RT;L142;10410;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L142_E07;RT-2;RT;L142;38018;male;TH;TH;TH;cell
+L142_F07;RT-2;RT;L142;16325;male;NF outlier;NF outlier;NF outlier;cell
+L142_G07;RT-2;RT;L142;75329;male;NF;NF2/3;NF2;cell
+L142_H07;RT-2;RT;L142;428114;male;TH;TH;TH;cell
+L142_A08;RT-2;RT;L142;985089;male;NF;NF1;NF1;cell
+L142_B08;RT-2;RT;L142;91338;male;TH;TH;TH;cell
+L142_C08;RT-2;RT;L142;944796;male;NF;NF2/3;NF3;cell
+L142_D08;RT-2;RT;L142;164048;male;TH;TH;TH;cell
+L142_E08;RT-2;RT;L142;11087;male;PEP;PEP1;PEP1;cell
+L142_F08;RT-2;RT;L142;57271;male;PEP;PEP1;PEP1;cell
+L142_G08;RT-2;RT;L142;165171;male;TH;TH;TH;cell
+L142_H08;RT-2;RT;L142;403908;male;TH;TH;TH;cell
+L142_A09;RT-2;RT;L142;399199;male;NP;NP1;NP1;cell
+L142_B09;RT-2;RT;L142;26460;male;NP;NP2;NP2;cell
+L142_C09;RT-2;RT;L142;12754;male;NoN;NoN;NoN;cell
+L142_D09;RT-2;RT;L142;9281;male;NoN;NoN;NoN;cell
+L142_E09;RT-2;RT;L142;19826;male;NoN;NoN;NoN;cell
+L142_F09;RT-2;RT;L142;1020596;male;NF;NF2/3;NF3;cell
+L142_G09;RT-2;RT;L142;695906;male;NF;NF2/3;NF2;cell
+L142_H09;RT-2;RT;L142;3468;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L142_A10;RT-2;RT;L142;253071;male;TH;TH;TH;cell
+L142_B10;RT-2;RT;L142;276322;male;TH;TH;TH;cell
+L142_C10;RT-2;RT;L142;288875;male;TH;TH;TH;cell
+L142_D10;RT-2;RT;L142;18140;male;NoN;NoN;NoN;cell
+L142_E10;RT-2;RT;L142;109223;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L142_F10;RT-2;RT;L142;74133;male;PEP;PEP1;PEP1;cell
+L142_G10;RT-2;RT;L142;1656;male;Medium;Medium;Medium;no cell
+L142_H10;RT-2;RT;L142;70567;male;TH;TH;TH;cell
+L142_A11;RT-2;RT;L142;1172398;male;NF;NF2/3;NF2;cell
+L142_B11;RT-2;RT;L142;109492;male;NP;NP1;NP1;cell
+L142_C11;RT-2;RT;L142;140468;male;TH;TH;TH;cell
+L142_D11;RT-2;RT;L142;169110;male;NP;NP1;NP1;cell
+L142_E11;RT-2;RT;L142;45781;male;PEP;PEP1;PEP1;cell
+L142_F11;RT-2;RT;L142;68324;male;PEP;PEP1;PEP1;cell
+L142_G11;RT-2;RT;L142;104405;male;NP;NP2;NP2;cell
+L142_H11;RT-2;RT;L142;71165;male;TH;TH;TH;cell
+L142_A12;RT-2;RT;L142;71425;male;PEP;PEP1;PEP1;cell
+L142_B12;RT-2;RT;L142;237971;male;NP;NP2;NP3;cell
+L142_C12;RT-2;RT;L142;6314;male;NoN;NoN;NoN;cell
+L142_D12;RT-2;RT;L142;252656;male;TH;TH;TH;cell
+L142_E12;RT-2;RT;L142;151957;male;TH;TH;TH;cell
+L142_F12;RT-2;RT;L142;3028;male;PEP;PEP1;PEP1;cell
+L142_G12;RT-2;RT;L142;291317;male;NP;NP1;NP1;cell
+L142_H12;RT-2;RT;L142;728230;male;NF;NF2/3;NF2;cell
+L226_A01;Cold;Cooling;L226;2492398;female;NP;NP1;NP1;cell
+L226_B01;Cold;Cooling;L226;123101;female;NoN;NoN;NoN;cell
+L226_C01;Cold;Cooling;L226;42318;female;NoN;NoN;NoN;cell
+L226_D01;Cold;Cooling;L226;83806;female;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L226_E01;Cold;Cooling;L226;2114;female;NP;NP1;NP1;cell
+L226_F01;Cold;Cooling;L226;34105;female;NoN;NoN;NoN;cell
+L226_G01;Cold;Cooling;L226;4911146;female;TH;TH;TH;cell
+L226_H01;Cold;Cooling;L226;8814;female;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L226_A02;Cold;Cooling;L226;1504787;female;TH;TH;TH;cell
+L226_B02;Cold;Cooling;L226;323138;female;NoN;NoN;NoN;cell
+L226_C02;Cold;Cooling;L226;257147;female;NoN;NoN;NoN;cell
+L226_D02;Cold;Cooling;L226;184410;female;NoN;NoN;NoN;cell
+L226_E02;Cold;Cooling;L226;19162;female;>1 cell;>1 cell;>1 cell;>1 cell
+L226_F02;Cold;Cooling;L226;3448442;female;NP;NP1;NP1;cell
+L226_G02;Cold;Cooling;L226;77080;female;NoN;NoN;NoN;cell
+L226_H02;Cold;Cooling;L226;4728859;female;NP;NP1;NP1;cell
+L226_A03;Cold;Cooling;L226;2459592;female;TH;TH;TH;cell
+L226_B03;Cold;Cooling;L226;57078;female;NoN;NoN;NoN;cell
+L226_C03;Cold;Cooling;L226;304112;female;NoN;NoN;NoN;cell
+L226_D03;Cold;Cooling;L226;248828;female;>1 cell;>1 cell;>1 cell;>1 cell
+L226_E03;Cold;Cooling;L226;4208641;female;TH;TH;TH;cell
+L226_F03;Cold;Cooling;L226;5837471;female;NP;NP1;NP1;cell
+L226_G03;Cold;Cooling;L226;2726175;female;TH;TH;TH;cell
+L226_H03;Cold;Cooling;L226;224378;female;NoN;NoN;NoN;cell
+L226_A04;Cold;Cooling;L226;99162;female;NoN;NoN;NoN;cell
+L226_B04;Cold;Cooling;L226;12079905;female;NF;NF2/3;NF2;cell
+L226_C04;Cold;Cooling;L226;1793851;female;TH;TH;TH;cell
+L226_D04;Cold;Cooling;L226;4257676;female;NF;NF1;NF1;cell
+L226_E04;Cold;Cooling;L226;3071636;female;TH;TH;TH;cell
+L226_F04;Cold;Cooling;L226;1522947;female;PEP;PEP1;PEP1;cell
+L226_G04;Cold;Cooling;L226;3595031;female;TH;TH;TH;cell
+L226_H04;Cold;Cooling;L226;4746402;female;NP;NP1;NP1;cell
+L226_A05;Cold;Cooling;L226;181526;female;NoN;NoN;NoN;cell
+L226_B05;Cold;Cooling;L226;4698723;female;NP;NP1;NP1;cell
+L226_C05;Cold;Cooling;L226;3180877;female;PEP;PEP1;PEP1;cell
+L226_D05;Cold;Cooling;L226;606008;female;PEP;PEP1;PEP1;cell
+L226_E05;Cold;Cooling;L226;1347629;female;TH;TH;TH;cell
+L226_F05;Cold;Cooling;L226;79443;female;NoN;NoN;NoN;cell
+L226_G05;Cold;Cooling;L226;233150;female;NoN;NoN;NoN;cell
+L226_H05;Cold;Cooling;L226;84736;female;NoN;NoN;NoN;cell
+L226_A06;Cold;Cooling;L226;1497304;female;TH;TH;TH;cell
+L226_B06;Cold;Cooling;L226;295140;female;NoN;NoN;NoN;cell
+L226_C06;Cold;Cooling;L226;1555175;female;TH;TH;TH;cell
+L226_D06;Cold;Cooling;L226;3569290;female;TH;TH;TH;cell
+L226_E06;Cold;Cooling;L226;2230963;female;TH;TH;TH;cell
+L226_F06;Cold;Cooling;L226;1684066;female;TH;TH;TH;cell
+L226_G06;Cold;Cooling;L226;148879;female;NoN;NoN;NoN;cell
+L226_H06;Cold;Cooling;L226;9402967;female;PEP;PEP2;PEP2;cell
+L226_A07;Cold;Cooling;L226;4290361;female;NP;NP1;NP1;cell
+L226_B07;Cold;Cooling;L226;1621877;female;NP;NP1;NP1;cell
+L226_C07;Cold;Cooling;L226;4146533;female;TH;TH;TH;cell
+L226_D07;Cold;Cooling;L226;2080944;female;TH;TH;TH;cell
+L226_E07;Cold;Cooling;L226;530830;female;TH outlier;TH outlier;TH outlier;cell
+L226_F07;Cold;Cooling;L226;2995931;female;TH;TH;TH;cell
+L226_G07;Cold;Cooling;L226;3020168;female;NP;NP2;NP2;cell
+L226_H07;Cold;Cooling;L226;78410;female;NoN;NoN;NoN;cell
+L226_A08;Cold;Cooling;L226;3288226;female;TH;TH;TH;cell
+L226_B08;Cold;Cooling;L226;3255772;female;NP;NP1;NP1;cell
+L226_C08;Cold;Cooling;L226;3029829;female;TH;TH;TH;cell
+L226_D08;Cold;Cooling;L226;3233645;female;NP;NP1;NP1;cell
+L226_E08;Cold;Cooling;L226;84187;female;NoN;NoN;NoN;cell
+L226_F08;Cold;Cooling;L226;100102;female;NoN;NoN;NoN;cell
+L226_G08;Cold;Cooling;L226;1733263;female;TH;TH;TH;cell
+L226_H08;Cold;Cooling;L226;3244388;female;TH;TH;TH;cell
+L226_A09;Cold;Cooling;L226;2170912;female;TH;TH;TH;cell
+L226_B09;Cold;Cooling;L226;277;female;TH outlier;TH outlier;TH outlier;cell
+L226_C09;Cold;Cooling;L226;2618;female;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L226_D09;Cold;Cooling;L226;2690428;female;NP;NP1;NP1;cell
+L226_E09;Cold;Cooling;L226;7959098;female;NP;NP1;NP1;cell
+L226_F09;Cold;Cooling;L226;3398670;female;TH;TH;TH;cell
+L226_G09;Cold;Cooling;L226;8397334;female;NP;NP1;NP1;cell
+L226_H09;Cold;Cooling;L226;1836098;female;TH;TH;TH;cell
+L226_A10;Cold;Cooling;L226;8611501;female;NF;NF2/3;NF2;cell
+L226_B10;Cold;Cooling;L226;5254744;female;NP;NP1;NP1;cell
+L226_C10;Cold;Cooling;L226;3336163;female;TH;TH;TH;cell
+L226_D10;Cold;Cooling;L226;125160;female;NoN;NoN;NoN;cell
+L226_E10;Cold;Cooling;L226;2354;female;TH;TH;TH;cell
+L226_F10;Cold;Cooling;L226;2890430;female;TH;TH;TH;cell
+L226_G10;Cold;Cooling;L226;1602168;female;NP;NP1;NP1;cell
+L226_H10;Cold;Cooling;L226;28252;female;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L226_A11;Cold;Cooling;L226;35180;female;NoN;NoN;NoN;cell
+L226_B11;Cold;Cooling;L226;2944475;female;NF;NF4/5;NF4;cell
+L226_C11;Cold;Cooling;L226;2573230;female;TH;TH;TH;cell
+L226_D11;Cold;Cooling;L226;2328089;female;NP;NP1;NP1;cell
+L226_E11;Cold;Cooling;L226;1304275;female;TH;TH;TH;cell
+L226_F11;Cold;Cooling;L226;2576153;female;PEP;PEP1;PEP1;cell
+L226_G11;Cold;Cooling;L226;101439;female;NoN;NoN;NoN;cell
+L226_H11;Cold;Cooling;L226;7957838;female;NF;NF1;NF1;cell
+L226_A12;Cold;Cooling;L226;4619922;female;>1 cell;>1 cell;>1 cell;>1 cell
+L226_B12;Cold;Cooling;L226;170808;female;NoN;NoN;NoN;cell
+L226_C12;Cold;Cooling;L226;951916;female;TH;TH;TH;cell
+L226_D12;Cold;Cooling;L226;4508284;female;TH;TH;TH;cell
+L226_E12;Cold;Cooling;L226;2733;female;NF;NF4/5;NF4;cell
+L226_F12;Cold;Cooling;L226;2733974;female;TH;TH;TH;cell
+L226_G12;Cold;Cooling;L226;655;female;Empty well;Empty well;Empty well;no cell
+L226_H12;Cold;Cooling;L226;77;female;Empty well;Empty well;Empty well;no cell
+L227_A01;Cold;Cooling;L227;2099671;male;NP;NP1;NP1;cell
+L227_B01;Cold;Cooling;L227;1030977;male;TH;TH;TH;cell
+L227_C01;Cold;Cooling;L227;445295;male;NP;NP1;NP1;cell
+L227_D01;Cold;Cooling;L227;125653;male;NP;NP2;NP2;cell
+L227_E01;Cold;Cooling;L227;1330700;male;NP;NP1;NP1;cell
+L227_F01;Cold;Cooling;L227;1102574;male;NP;NP1;NP1;cell
+L227_G01;Cold;Cooling;L227;6235856;male;NP;NP1;NP1;cell
+L227_H01;Cold;Cooling;L227;2882644;male;NP;NP1;NP1;cell
+L227_A02;Cold;Cooling;L227;16616;male;NoN;NoN;NoN;cell
+L227_B02;Cold;Cooling;L227;323477;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L227_C02;Cold;Cooling;L227;39206;male;NoN;NoN;NoN;cell
+L227_D02;Cold;Cooling;L227;547263;male;TH;TH;TH;cell
+L227_E02;Cold;Cooling;L227;34686;male;NoN;NoN;NoN;cell
+L227_F02;Cold;Cooling;L227;13487;male;NoN;NoN;NoN;cell
+L227_G02;Cold;Cooling;L227;724672;male;TH;TH;TH;cell
+L227_H02;Cold;Cooling;L227;1282973;male;NP;NP1;NP1;cell
+L227_A03;Cold;Cooling;L227;959814;male;TH;TH;TH;cell
+L227_B03;Cold;Cooling;L227;47542;male;NoN;NoN;NoN;cell
+L227_C03;Cold;Cooling;L227;4314963;male;NP;NP1;NP1;cell
+L227_D03;Cold;Cooling;L227;2284823;male;TH;TH;TH;cell
+L227_E03;Cold;Cooling;L227;3309271;male;NP;NP1;NP1;cell
+L227_F03;Cold;Cooling;L227;1712650;male;TH;TH;TH;cell
+L227_G03;Cold;Cooling;L227;4056287;male;NP;NP1;NP1;cell
+L227_H03;Cold;Cooling;L227;1488010;male;TH;TH;TH;cell
+L227_A04;Cold;Cooling;L227;679827;male;TH;TH;TH;cell
+L227_B04;Cold;Cooling;L227;47606;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L227_C04;Cold;Cooling;L227;19982;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L227_D04;Cold;Cooling;L227;123714;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L227_E04;Cold;Cooling;L227;1025628;male;NP;NP2;NP2;cell
+L227_F04;Cold;Cooling;L227;2255019;male;TH;TH;TH;cell
+L227_G04;Cold;Cooling;L227;908869;male;TH;TH;TH;cell
+L227_H04;Cold;Cooling;L227;3721966;male;NF;NF1;NF1;cell
+L227_A05;Cold;Cooling;L227;25896;male;NoN;NoN;NoN;cell
+L227_B05;Cold;Cooling;L227;1281525;male;TH;TH;TH;cell
+L227_C05;Cold;Cooling;L227;3672424;male;TH;TH;TH;cell
+L227_D05;Cold;Cooling;L227;5245604;male;NF;NF4/5;NF5;cell
+L227_E05;Cold;Cooling;L227;1283293;male;NP;NP1;NP1;cell
+L227_F05;Cold;Cooling;L227;2278869;male;NP;NP2;NP2;cell
+L227_G05;Cold;Cooling;L227;1808543;male;PEP;PEP1;PEP1;cell
+L227_H05;Cold;Cooling;L227;2748140;male;NP;NP1;NP1;cell
+L227_A06;Cold;Cooling;L227;65120;male;NoN;NoN;NoN;cell
+L227_B06;Cold;Cooling;L227;35257;male;NoN;NoN;NoN;cell
+L227_C06;Cold;Cooling;L227;4193128;male;NF;NF2/3;NF2;cell
+L227_D06;Cold;Cooling;L227;5015999;male;NF;NF2/3;NF3;cell
+L227_E06;Cold;Cooling;L227;1862253;male;NP;NP2;NP2;cell
+L227_F06;Cold;Cooling;L227;107793;male;NoN;NoN;NoN;cell
+L227_G06;Cold;Cooling;L227;5675085;male;NP;NP1;NP1;cell
+L227_H06;Cold;Cooling;L227;7853;male;>1 cell;>1 cell;>1 cell;>1 cell
+L227_A07;Cold;Cooling;L227;334435;male;PEP;PEP1;PEP1;cell
+L227_B07;Cold;Cooling;L227;3334;male;NoN;NoN;NoN;cell
+L227_C07;Cold;Cooling;L227;843638;male;NP;NP2;NP2;cell
+L227_D07;Cold;Cooling;L227;7926;male;NoN;NoN;NoN;cell
+L227_E07;Cold;Cooling;L227;164262;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L227_F07;Cold;Cooling;L227;14993;male;NoN;NoN;NoN;cell
+L227_G07;Cold;Cooling;L227;1815;male;NP;NP1;NP1;cell
+L227_H07;Cold;Cooling;L227;527526;male;TH outlier;TH outlier;TH outlier;cell
+L227_A08;Cold;Cooling;L227;780748;male;TH outlier;TH outlier;TH outlier;cell
+L227_B08;Cold;Cooling;L227;27111;male;NoN;NoN;NoN;cell
+L227_C08;Cold;Cooling;L227;357158;male;PEP;PEP1;PEP1;cell
+L227_D08;Cold;Cooling;L227;254933;male;NP;NP1;NP1;cell
+L227_E08;Cold;Cooling;L227;2075111;male;NF;NF1;NF1;cell
+L227_F08;Cold;Cooling;L227;13424;male;NoN;NoN;NoN;cell
+L227_G08;Cold;Cooling;L227;89938;male;PEP;PEP1;PEP1;cell
+L227_H08;Cold;Cooling;L227;391785;male;NP;NP2;NP2;cell
+L227_A09;Cold;Cooling;L227;164765;male;PEP;PEP1;PEP1;cell
+L227_B09;Cold;Cooling;L227;170055;male;TH outlier;TH outlier;TH outlier;cell
+L227_C09;Cold;Cooling;L227;1655;male;NP;NP2;NP2;cell
+L227_D09;Cold;Cooling;L227;358717;male;NP;NP2;NP2;cell
+L227_E09;Cold;Cooling;L227;647569;male;TH;TH;TH;cell
+L227_F09;Cold;Cooling;L227;1174913;male;NP;NP2;NP3;cell
+L227_G09;Cold;Cooling;L227;2296419;male;NoN;NoN;NoN;cell
+L227_H09;Cold;Cooling;L227;1355933;male;TH;TH;TH;cell
+L227_A10;Cold;Cooling;L227;788808;male;TH;TH;TH;cell
+L227_B10;Cold;Cooling;L227;772048;male;NP;NP2;NP2;cell
+L227_C10;Cold;Cooling;L227;1359477;male;TH;TH;TH;cell
+L227_D10;Cold;Cooling;L227;964759;male;TH;TH;TH;cell
+L227_E10;Cold;Cooling;L227;1299538;male;TH;TH;TH;cell
+L227_F10;Cold;Cooling;L227;848094;male;TH;TH;TH;cell
+L227_G10;Cold;Cooling;L227;10682;male;NoN;NoN;NoN;cell
+L227_H10;Cold;Cooling;L227;34254;male;NoN;NoN;NoN;cell
+L227_A11;Cold;Cooling;L227;1639847;male;NP;NP1;NP1;cell
+L227_B11;Cold;Cooling;L227;78782;male;PEP;PEP1;PEP1;cell
+L227_C11;Cold;Cooling;L227;907;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L227_D11;Cold;Cooling;L227;5870;male;NoN;NoN;NoN;cell
+L227_E11;Cold;Cooling;L227;259866;male;TH;TH;TH;cell
+L227_F11;Cold;Cooling;L227;24929;male;NoN;NoN;NoN;cell
+L227_G11;Cold;Cooling;L227;1546872;male;TH;TH;TH;cell
+L227_H11;Cold;Cooling;L227;13029;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L227_A12;Cold;Cooling;L227;419601;male;TH;TH;TH;cell
+L227_B12;Cold;Cooling;L227;992127;male;PEP;PEP1;PEP1;cell
+L227_C12;Cold;Cooling;L227;1003809;male;TH outlier;TH outlier;TH outlier;cell
+L227_D12;Cold;Cooling;L227;673424;male;>1 cell;>1 cell;>1 cell;>1 cell
+L227_E12;Cold;Cooling;L227;1831609;male;NF;NF4/5;NF4;cell
+L227_F12;Cold;Cooling;L227;1445777;male;NP;NP1;NP1;cell
+L227_G12;Cold;Cooling;L227;428234;male;TH;TH;TH;cell
+L227_H12;Cold;Cooling;L227;11;male;Empty well;Empty well;Empty well;no cell
+L228_A01;Cold;Cooling;L228;113109;male;NoN;NoN;NoN;cell
+L228_B01;Cold;Cooling;L228;1727694;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L228_C01;Cold;Cooling;L228;43150;male;NoN;NoN;NoN;cell
+L228_D01;Cold;Cooling;L228;352585;male;TH outlier;TH outlier;TH outlier;cell
+L228_E01;Cold;Cooling;L228;974842;male;TH outlier;TH outlier;TH outlier;cell
+L228_F01;Cold;Cooling;L228;71932;male;NoN;NoN;NoN;cell
+L228_G01;Cold;Cooling;L228;3722612;male;TH;TH;TH;cell
+L228_H01;Cold;Cooling;L228;6085037;male;NF;NF1;NF1;cell
+L228_A02;Cold;Cooling;L228;24432;male;NoN;NoN;NoN;cell
+L228_B02;Cold;Cooling;L228;3475459;male;TH;TH;TH;cell
+L228_C02;Cold;Cooling;L228;51858;male;NoN;NoN;NoN;cell
+L228_D02;Cold;Cooling;L228;362306;male;PEP;PEP1;PEP1;cell
+L228_E02;Cold;Cooling;L228;23503;male;NoN;NoN;NoN;cell
+L228_F02;Cold;Cooling;L228;3264918;male;NF;NF1;NF1;cell
+L228_G02;Cold;Cooling;L228;2512081;male;NP;NP1;NP1;cell
+L228_H02;Cold;Cooling;L228;820673;male;TH;TH;TH;cell
+L228_A03;Cold;Cooling;L228;34046;male;NoN;NoN;NoN;cell
+L228_B03;Cold;Cooling;L228;5730631;male;NF;NF4/5;NF5;cell
+L228_C03;Cold;Cooling;L228;145681;male;NoN;NoN;NoN;cell
+L228_D03;Cold;Cooling;L228;1250473;male;PEP;PEP1;PEP1;cell
+L228_E03;Cold;Cooling;L228;11581649;male;PEP;PEP2;PEP2;cell
+L228_F03;Cold;Cooling;L228;2646694;male;TH;TH;TH;cell
+L228_G03;Cold;Cooling;L228;3627663;male;TH;TH;TH;cell
+L228_H03;Cold;Cooling;L228;93443;male;NoN outlier;NoN outlier;NoN outlier;cell
+L228_A04;Cold;Cooling;L228;2484418;male;TH outlier;TH outlier;TH outlier;cell
+L228_B04;Cold;Cooling;L228;304545;male;NoN;NoN;NoN;cell
+L228_C04;Cold;Cooling;L228;1888723;male;NP;NP2;NP3;cell
+L228_D04;Cold;Cooling;L228;1418635;male;NF;NF4/5;NF4;cell
+L228_E04;Cold;Cooling;L228;2447479;male;TH;TH;TH;cell
+L228_F04;Cold;Cooling;L228;3262334;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L228_G04;Cold;Cooling;L228;1860516;male;TH;TH;TH;cell
+L228_H04;Cold;Cooling;L228;103694;male;NoN;NoN;NoN;cell
+L228_A05;Cold;Cooling;L228;65125;male;NoN;NoN;NoN;cell
+L228_B05;Cold;Cooling;L228;111668;male;NoN;NoN;NoN;cell
+L228_C05;Cold;Cooling;L228;11271375;male;NF;NF2/3;NF3;cell
+L228_D05;Cold;Cooling;L228;4017455;male;NF;NF1;NF1;cell
+L228_E05;Cold;Cooling;L228;863242;male;TH;TH;TH;cell
+L228_F05;Cold;Cooling;L228;69750;male;NoN;NoN;NoN;cell
+L228_G05;Cold;Cooling;L228;1754522;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L228_H05;Cold;Cooling;L228;2025084;male;NP;NP1;NP1;cell
+L228_A06;Cold;Cooling;L228;630768;male;PEP;PEP1;PEP1;cell
+L228_B06;Cold;Cooling;L228;1305683;male;TH;TH;TH;cell
+L228_C06;Cold;Cooling;L228;766935;male;TH;TH;TH;cell
+L228_D06;Cold;Cooling;L228;1498487;male;TH;TH;TH;cell
+L228_E06;Cold;Cooling;L228;2988272;male;NF;NF4/5;NF4;cell
+L228_F06;Cold;Cooling;L228;1182168;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L228_G06;Cold;Cooling;L228;2997;male;Empty well;Empty well;Empty well;no cell
+L228_H06;Cold;Cooling;L228;279;male;Empty well;Empty well;Empty well;no cell
+L228_A07;Cold;Cooling;L228;4814112;male;NP;NP1;NP1;cell
+L228_B07;Cold;Cooling;L228;168743;male;TH outlier;TH outlier;TH outlier;cell
+L228_C07;Cold;Cooling;L228;3631291;male;TH;TH;TH;cell
+L228_D07;Cold;Cooling;L228;1505280;male;TH;TH;TH;cell
+L228_E07;Cold;Cooling;L228;735015;male;TH;TH;TH;cell
+L228_F07;Cold;Cooling;L228;2972244;male;TH outlier;TH outlier;TH outlier;cell
+L228_G07;Cold;Cooling;L228;2623722;male;TH;TH;TH;cell
+L228_H07;Cold;Cooling;L228;3343072;male;TH;TH;TH;cell
+L228_A08;Cold;Cooling;L228;2579409;male;TH;TH;TH;cell
+L228_B08;Cold;Cooling;L228;20027;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L228_C08;Cold;Cooling;L228;5785038;male;NF;NF1;NF1;cell
+L228_D08;Cold;Cooling;L228;2031134;male;NF;NF4/5;NF4;cell
+L228_E08;Cold;Cooling;L228;3271677;male;TH;TH;TH;cell
+L228_F08;Cold;Cooling;L228;1567701;male;TH outlier;TH outlier;TH outlier;cell
+L228_G08;Cold;Cooling;L228;1240660;male;TH;TH;TH;cell
+L228_H08;Cold;Cooling;L228;1546953;male;NoN outlier;NoN outlier;NoN outlier;cell
+L228_A09;Cold;Cooling;L228;2667634;male;TH;TH;TH;cell
+L228_B09;Cold;Cooling;L228;156212;male;TH;TH;TH;cell
+L228_C09;Cold;Cooling;L228;102497;male;NoN;NoN;NoN;cell
+L228_D09;Cold;Cooling;L228;51544;male;NoN;NoN;NoN;cell
+L228_E09;Cold;Cooling;L228;133960;male;NoN;NoN;NoN;cell
+L228_F09;Cold;Cooling;L228;3820837;male;NP;NP2;NP2;cell
+L228_G09;Cold;Cooling;L228;3158591;male;TH;TH;TH;cell
+L228_H09;Cold;Cooling;L228;61757;male;NoN;NoN;NoN;cell
+L228_A10;Cold;Cooling;L228;2653524;male;TH;TH;TH;cell
+L228_B10;Cold;Cooling;L228;2714772;male;TH;TH;TH;cell
+L228_C10;Cold;Cooling;L228;262491;male;NoN;NoN;NoN;cell
+L228_D10;Cold;Cooling;L228;1224069;male;TH;TH;TH;cell
+L228_E10;Cold;Cooling;L228;1700448;male;TH;TH;TH;cell
+L228_F10;Cold;Cooling;L228;6923244;male;NF;NF1;NF1;cell
+L228_G10;Cold;Cooling;L228;645260;male;TH;TH;TH;cell
+L228_H10;Cold;Cooling;L228;42584;male;NoN;NoN;NoN;cell
+L228_A11;Cold;Cooling;L228;1801326;male;TH;TH;TH;cell
+L228_B11;Cold;Cooling;L228;1250290;male;TH;TH;TH;cell
+L228_C11;Cold;Cooling;L228;4929027;male;PEP;PEP2;PEP2;cell
+L228_D11;Cold;Cooling;L228;1032383;male;TH;TH;TH;cell
+L228_E11;Cold;Cooling;L228;765989;male;TH outlier;TH outlier;TH outlier;cell
+L228_F11;Cold;Cooling;L228;12847146;male;NF;NF2/3;NF2;cell
+L228_G11;Cold;Cooling;L228;55478;male;NoN;NoN;NoN;cell
+L228_H11;Cold;Cooling;L228;975730;male;TH;TH;TH;cell
+L228_A12;Cold;Cooling;L228;1764824;male;TH;TH;TH;cell
+L228_B12;Cold;Cooling;L228;3601800;male;TH;TH;TH;cell
+L228_C12;Cold;Cooling;L228;2743216;male;TH;TH;TH;cell
+L228_D12;Cold;Cooling;L228;165924;male;NoN;NoN;NoN;cell
+L228_E12;Cold;Cooling;L228;2274995;male;TH;TH;TH;cell
+L228_F12;Cold;Cooling;L228;9586652;male;NF;NF1;NF1;cell
+L228_G12;Cold;Cooling;L228;92270;male;NoN;NoN;NoN;cell
+L228_H12;Cold;Cooling;L228;212;male;Empty well;Empty well;Empty well;no cell
+L281_A01;Cold;Cooling;L281;6685240;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_B01;Cold;Cooling;L281;24686542;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_C01;Cold;Cooling;L281;3169051;male;TH;TH;TH;cell
+L281_D01;Cold;Cooling;L281;248699;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_E01;Cold;Cooling;L281;7482633;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_F01;Cold;Cooling;L281;13575276;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L281_G01;Cold;Cooling;L281;6683371;male;NP;NP1;NP1;cell
+L281_H01;Cold;Cooling;L281;66507;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L281_A02;Cold;Cooling;L281;11051222;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_B02;Cold;Cooling;L281;3185;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L281_C02;Cold;Cooling;L281;7820041;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_D02;Cold;Cooling;L281;3663078;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_E02;Cold;Cooling;L281;2894344;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L281_F02;Cold;Cooling;L281;747927;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_G02;Cold;Cooling;L281;6040;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L281_H02;Cold;Cooling;L281;4689390;male;NP;NP1;NP1;cell
+L281_A03;Cold;Cooling;L281;4190395;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_B03;Cold;Cooling;L281;314715;male;NoN;NoN;NoN;cell
+L281_C03;Cold;Cooling;L281;87869;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_D03;Cold;Cooling;L281;3652177;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_E03;Cold;Cooling;L281;1690435;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_F03;Cold;Cooling;L281;6449936;male;NP;NP1;NP1;cell
+L281_G03;Cold;Cooling;L281;63592;male;NoN;NoN;NoN;cell
+L281_H03;Cold;Cooling;L281;5956;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L281_A04;Cold;Cooling;L281;6218417;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_B04;Cold;Cooling;L281;2166859;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L281_C04;Cold;Cooling;L281;28954608;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_D04;Cold;Cooling;L281;24346351;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_E04;Cold;Cooling;L281;14916461;male;NF;NF2/3;NF2;cell
+L281_F04;Cold;Cooling;L281;1214579;male;NoN;NoN;NoN;cell
+L281_G04;Cold;Cooling;L281;19007929;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_H04;Cold;Cooling;L281;7443261;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_A05;Cold;Cooling;L281;308894;male;NoN;NoN;NoN;cell
+L281_B05;Cold;Cooling;L281;4332737;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_C05;Cold;Cooling;L281;385027;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L281_D05;Cold;Cooling;L281;5251;male;Empty well;Empty well;Empty well;no cell
+L281_E05;Cold;Cooling;L281;6542046;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_F05;Cold;Cooling;L281;4492829;male;NP;NP1;NP1;cell
+L281_G05;Cold;Cooling;L281;2556399;male;NP;NP1;NP1;cell
+L281_H05;Cold;Cooling;L281;2868382;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_A06;Cold;Cooling;L281;5227949;male;NP;NP1;NP1;cell
+L281_B06;Cold;Cooling;L281;8067003;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_C06;Cold;Cooling;L281;14329907;male;NP;NP2;NP2;cell
+L281_D06;Cold;Cooling;L281;3545396;male;NP;NP1;NP1;cell
+L281_E06;Cold;Cooling;L281;4389571;male;>1 cell;>1 cell;>1 cell;>1 cell
+L281_F06;Cold;Cooling;L281;78748;male;NoN;NoN;NoN;cell
+L281_G06;Cold;Cooling;L281;2935;male;Medium;Medium;Medium;no cell
+L281_H06;Cold;Cooling;L281;5133;male;Empty well;Empty well;Empty well;no cell
+L282_A01;Cold;Cooling;L282;31963319;male;NP;NP2;NP2;cell
+L282_B01;Cold;Cooling;L282;10527443;male;TH outlier;TH outlier;TH outlier;cell
+L282_C01;Cold;Cooling;L282;187048;male;NoN;NoN;NoN;cell
+L282_D01;Cold;Cooling;L282;7252470;male;TH outlier;TH outlier;TH outlier;cell
+L282_E01;Cold;Cooling;L282;1457741;male;>1 cell;>1 cell;>1 cell;>1 cell
+L282_F01;Cold;Cooling;L282;17849;male;>1 cell;>1 cell;>1 cell;>1 cell
+L282_G01;Cold;Cooling;L282;386087;male;NoN;NoN;NoN;cell
+L282_H01;Cold;Cooling;L282;507615;male;NoN;NoN;NoN;cell
+L282_A02;Cold;Cooling;L282;1144093;male;NoN;NoN;NoN;cell
+L282_B02;Cold;Cooling;L282;1733847;male;NoN;NoN;NoN;cell
+L282_C02;Cold;Cooling;L282;20132822;male;NP;NP1;NP1;cell
+L282_D02;Cold;Cooling;L282;7461;male;NoN;NoN;NoN;cell
+L282_E02;Cold;Cooling;L282;4808;male;Medium;Medium;Medium;no cell
+L282_F02;Cold;Cooling;L282;2977;male;Medium;Medium;Medium;no cell
+L282_G02;Cold;Cooling;L282;4496;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L282_H02;Cold;Cooling;L282;39105;male;NoN;NoN;NoN;cell
+L282_A03;Cold;Cooling;L282;4963;male;Medium;Medium;Medium;no cell
+L282_B03;Cold;Cooling;L282;697424;male;NoN;NoN;NoN;cell
+L282_C03;Cold;Cooling;L282;13933936;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L282_D03;Cold;Cooling;L282;3452;male;Medium;Medium;Medium;no cell
+L282_E03;Cold;Cooling;L282;477850;male;NoN;NoN;NoN;cell
+L282_F03;Cold;Cooling;L282;281520;male;NoN;NoN;NoN;cell
+L282_G03;Cold;Cooling;L282;1612;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L282_H03;Cold;Cooling;L282;3757;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L282_A04;Cold;Cooling;L282;374051;male;NoN;NoN;NoN;cell
+L282_B04;Cold;Cooling;L282;4791794;male;TH outlier;TH outlier;TH outlier;cell
+L282_C04;Cold;Cooling;L282;248512;male;NoN;NoN;NoN;cell
+L282_D04;Cold;Cooling;L282;251019;male;NoN;NoN;NoN;cell
+L282_E04;Cold;Cooling;L282;437315;male;NoN;NoN;NoN;cell
+L282_F04;Cold;Cooling;L282;530152;male;NoN;NoN;NoN;cell
+L282_G04;Cold;Cooling;L282;455687;male;NoN;NoN;NoN;cell
+L282_H04;Cold;Cooling;L282;6139;male;Medium;Medium;Medium;no cell
+L282_A05;Cold;Cooling;L282;10736596;male;TH outlier;TH outlier;TH outlier;cell
+L282_B05;Cold;Cooling;L282;184530;male;NoN;NoN;NoN;cell
+L282_C05;Cold;Cooling;L282;74485;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L282_D05;Cold;Cooling;L282;175804;male;NoN;NoN;NoN;cell
+L282_E05;Cold;Cooling;L282;703603;male;>1 cell;>1 cell;>1 cell;>1 cell
+L282_F05;Cold;Cooling;L282;699419;male;>1 cell;>1 cell;>1 cell;>1 cell
+L282_G05;Cold;Cooling;L282;347019;male;NoN;NoN;NoN;cell
+L282_H05;Cold;Cooling;L282;241939;male;NoN;NoN;NoN;cell
+L282_A06;Cold;Cooling;L282;20172;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L282_B06;Cold;Cooling;L282;15169199;male;TH outlier;TH outlier;TH outlier;cell
+L282_C06;Cold;Cooling;L282;2852983;male;NoN;NoN;NoN;cell
+L282_D06;Cold;Cooling;L282;2612;male;Medium;Medium;Medium;no cell
+L282_E06;Cold;Cooling;L282;396380;male;Central, unsolved;Central, unsolved;Central, unsolved;cell
+L282_F06;Cold;Cooling;L282;3663;male;Medium;Medium;Medium;no cell
+L282_G06;Cold;Cooling;L282;254877;male;NoN;NoN;NoN;cell
+L282_H06;Cold;Cooling;L282;201849;male;NoN;NoN;NoN;cell
